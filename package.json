@@ -1,0 +1,20 @@
+{
+  "name": "grafika-tbilisi-cli",
+  "version": "1.0.0",
+  "description": "Official command-line client for the Grafika Tbilisi public restaurant API",
+  "homepage": "https://www.grafikatbilisi.com/cli",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thsololaki-byte/grafika-tbilisi-cli.git"
+  },
+  "bin": {
+    "grafika": "./grafika-cli.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "files": [
+    "grafika-cli.mjs"
+  ],
+  "license": "UNLICENSED"
+}
